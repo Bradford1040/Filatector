@@ -3,7 +3,7 @@ Compact, in-line filament detection sensor.
 ![FilaTector_V4](https://github.com/user-attachments/assets/79fa83de-570e-4c04-ac4f-7bd3ce9bc4a7)
 
 This filament sensor uses a small bearing to trigger a microswitch when 1.75mm filament is running through it.
-Recommend wiring the microswitch NO (normally open).
+Recommend wiring the microswitch NO (normally open) and to bevel the inside lip of the bowden tube on each side of the FilaTector.
 
 #BOM#
 | Part  | QTY |
